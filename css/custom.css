@@ -210,7 +210,7 @@
   }
     
    /*style loading*/
-   .mapup{
+   .mapup{visibility: hidden;
       background-attachment: fixed;
     width: 100vw;
     height: 100vh;
@@ -223,7 +223,7 @@
     /*text-align: center;
     padding: 0 30px 30px;
     color: #333;*/
-    visibility: hidden;
+    
     transition: transform 0.4s, left 0.4s,top 0.4s;
    }
 
