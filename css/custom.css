@@ -240,7 +240,7 @@
    height: 500px;
    position: absolute;
    left: 35%;
-   top: 17%;
+   top: 15%;
 } 
 .qrmap{
    width: 170px;
@@ -371,7 +371,7 @@ span {
    background-attachment: fixed;
    width: 170px;
    height: 250px;
-   margin-top: 610px;
+   margin-top: 20%;
    background: rgb(255, 255, 255);
    border-radius: 15px;
    border: 0px solid #000;
@@ -388,7 +388,7 @@ span {
    background-attachment: fixed;
    width: 250px;
    height: 300px;
-   margin-top: 300px;
+   margin-top:20%;
    background: rgb(255, 255, 255);
    border-radius: 15px;
    border: 0px solid #000;
