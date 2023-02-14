@@ -237,10 +237,10 @@
    }
 .map{
    width: 500px;
-   height: 700px;
+   height: 500px;
    position: absolute;
    left: 35%;
-   top: 25%;
+   top: 17%;
 } 
 .qrmap{
    width: 170px;
