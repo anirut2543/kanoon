@@ -97,15 +97,15 @@
             text.style.fontSize = "70px";
             text.classList.add("add02");
             clearInterval(loading);
-            per = per + 4;
+            per = per + 8;
             count = count + 1;
             removeEventListener(openmap())
             
             //window.location='QR.html';
-        }else /*if(count == 101 && per == 404){ removeEventListener(closeloadup()) }
+        }else /*if(count == 101 && per == 408){ removeEventListener(closeloadup()) }
         else*/
         {
-            per = per + 4;
+            per = per + 8;
             count = count + 1;
             progress.style.width = per + 'px';
             percent.textContent = count + '%';
@@ -123,7 +123,7 @@
 
         function toy(){
         document.getElementById("output").innerHTML =
-        Math.floor(Math.random() * 6) + 1;
+        Math.floor(Math.random() * 3) + 1;
         }
 
 
