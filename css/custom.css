@@ -236,8 +236,8 @@
       transform: translate(-50%,-50%) scale(1);
    }
 .map{
-   min-width: 500px;
-   min-height: 700px;
+   width: 500px;
+   height: 700px;
    position: absolute;
    left: 35%;
    top: 25%;
@@ -381,7 +381,7 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 15%;
+   left: 17%;
 }
 
 .qr{
@@ -398,5 +398,5 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 15%;
+   left: 17%;
 }
