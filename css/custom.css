@@ -236,10 +236,10 @@
       transform: translate(-50%,-50%) scale(1);
    }
 .map{
-   max-width: 600px;
-   max-height: 600px;
+   max-width: 500px;
+   max-height: 700px;
    position: absolute;
-   left: 50%;
+   left: 30%;
    top: 10%;
 } 
 .qrmap{
@@ -381,7 +381,7 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 35.5%;
+   left: 10%;
 }
 
 .qr{
@@ -398,5 +398,5 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 35.5%;
+   left: 10%;
 }
