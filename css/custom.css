@@ -236,8 +236,8 @@
       transform: translate(-50%,-50%) scale(1);
    }
 .map{
-   width: 550px;
-   height: 550px;
+   width: 620px;
+   height: 620px;
    position: absolute;
    left: 38%;
    top: 10%;
