@@ -240,7 +240,7 @@
    max-height: 700px;
    position: absolute;
    left: 30%;
-   top: 10%;
+   top: 20%;
 } 
 .qrmap{
    width: 170px;
@@ -371,7 +371,7 @@ span {
    background-attachment: fixed;
    width: 170px;
    height: 250px;
-   margin-top: 510px;
+   margin-top: 610px;
    background: rgb(255, 255, 255);
    border-radius: 15px;
    border: 0px solid #000;
@@ -381,14 +381,14 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 10%;
+   left: 15%;
 }
 
 .qr{
    background-attachment: fixed;
    width: 300px;
    height: 350px;
-   margin-top: 200px;
+   margin-top: 300px;
    background: rgb(255, 255, 255);
    border-radius: 15px;
    border: 0px solid #000;
@@ -398,5 +398,5 @@ span {
    color: #333;
    visibility: visible;
    position: absolute;
-   left: 10%;
+   left: 15%;
 }
