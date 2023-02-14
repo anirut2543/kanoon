@@ -236,11 +236,11 @@
       transform: translate(-50%,-50%) scale(1);
    }
 .map{
-   max-width: 500px;
-   max-height: 700px;
+   min-width: 500px;
+   min-height: 700px;
    position: absolute;
-   left: 30%;
-   top: 20%;
+   left: 35%;
+   top: 25%;
 } 
 .qrmap{
    width: 170px;
@@ -386,8 +386,8 @@ span {
 
 .qr{
    background-attachment: fixed;
-   width: 300px;
-   height: 350px;
+   width: 250px;
+   height: 300px;
    margin-top: 300px;
    background: rgb(255, 255, 255);
    border-radius: 15px;
